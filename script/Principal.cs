@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class Principal : MonoBehaviour {
+    //desenvolvimento de um jogo na unity
 	public GameObject jogador;
 	public GameObject Bate;
 	public GameObject idle;
